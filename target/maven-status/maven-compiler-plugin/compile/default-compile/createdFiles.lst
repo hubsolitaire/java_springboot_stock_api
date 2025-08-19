@@ -1,0 +1,11 @@
+com\stock\api\exception\DuplicateReferenceException.class
+com\stock\api\repository\ProductRepository.class
+com\stock\api\exception\GlobalExceptionHandler.class
+com\stock\api\entity\Product.class
+com\stock\api\config\DataInitializer.class
+com\stock\api\config\SecurityConfig.class
+com\stock\api\StockApiApplication.class
+com\stock\api\controller\ProductController.class
+com\stock\api\exception\ProductNotFoundException.class
+com\stock\api\exception\GlobalExceptionHandler$ErrorResponse.class
+com\stock\api\service\ProductService.class

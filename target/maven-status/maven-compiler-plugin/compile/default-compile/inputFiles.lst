@@ -1,0 +1,10 @@
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\service\ProductService.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\config\DataInitializer.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\config\SecurityConfig.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\entity\Product.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\controller\ProductController.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\repository\ProductRepository.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\StockApiApplication.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\exception\DuplicateReferenceException.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\exception\GlobalExceptionHandler.java
+C:\Users\sodjine.agbanavon\Workspace\java_springboot_stock_api\src\main\java\com\stock\api\exception\ProductNotFoundException.java
